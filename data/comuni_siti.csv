@@ -1,0 +1,41 @@
+codice_istat,comune,fascia,home,stato_sito,prove
+017088,Leno,A,https://comune.leno.bs.it/it,leggibile,comune.leno.bs.it=200
+017107,Mazzano,A,https://www.comune.mazzano.bs.it/,leggibile,comune.mazzano.bs.it=200
+017127,Ospitaletto,A,https://www.comune.ospitaletto.bs.it/,leggibile,comune.ospitaletto.bs.it=200
+017174,Sarezzo,A,https://comune.sarezzo.bs.it/,leggibile,comune.sarezzo.bs.it=200
+013165,Olgiate Comasco,A,https://comune.olgiate-comasco.co.it/,leggibile,comune.olgiatecomasco.co.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway')); comune.olgiatecomasco.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway')); www.comune.olgiatecomasco.co.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway')); www.comune.olgiatecomasco.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway')); comune.olgiate-comasco.co.it=200
+020071,Borgo Virgilio,A,https://comune.borgovirgilio.mn.it/it,leggibile,comune.borgovirgilio.mn.it=200
+015086,Cormano,A,https://comune.cormano.mi.it/it,leggibile,comune.cormano.mi.it=200
+015125,Locate di Triulzi,A,https://comune.locateditriulzi.mi.it/,leggibile,comune.locateditriulzi.mi.it=200
+015130,Magenta,A,https://comune.magenta.mi.it/,leggibile,comune.magenta.mi.it=200
+015173,Pieve Emanuele,A,https://comune.pieveemanuele.mi.it/it,leggibile,comune.pieveemanuele.mi.it=200
+108007,Bernareggio,A,https://comune.bernareggio.mb.it/it,leggibile,comune.bernareggio.mb.it=200
+108053,Cornate d'Adda,A,https://comune.cornatedadda.mb.it/it,leggibile,comune.cornatedadda.mb.it=200
+108024,Giussano,A,https://www.comune.giussano.mb.it/it,leggibile,"comune.giussano.mb.it=URLError(ConnectionResetError(104, 'Connection reset by peer')); comune.giussano.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway')); www.comune.giussano.mb.it=200"
+108040,Seveso,A,https://comune.seveso.mb.it/it,leggibile,comune.seveso.mb.it=200
+108050,Vimercate,A,https://comune.vimercate.mb.it/it,leggibile,comune.vimercate.mb.it=200
+018102,Mortara,A,https://comune.mortara.pv.it/,robots.txt vieta l'accesso,comune.mortara.pv.it=robots
+014061,Sondrio,A,https://comune.sondrio.it/,leggibile,comune.sondrio.so.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway')); comune.sondrio.it=200
+012034,Caronno Pertusella,A,https://comune.caronnopertusella.va.it/it,leggibile,comune.caronnopertusella.va.it=200
+012075,Gerenzano,A,https://comune.gerenzano.va.it/it,leggibile,comune.gerenzano.va.it=200
+012133,Varese,A,https://comune.varese.it/,robots.txt vieta l'accesso,comune.varese.va.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway')); comune.varese.it=robots
+016031,Bonate Sotto,B,https://comune.bonatesotto.bg.it/,robots.txt vieta l'accesso,comune.bonatesotto.bg.it=robots
+016038,Brembate di Sopra,B,https://comune.brembatedisopra.bg.it/it,leggibile,comune.brembatedisopra.bg.it=200
+016120,Grumello del Monte,B,https://www.comune.grumellodelmonte.bg.it/,leggibile,comune.grumellodelmonte.bg.it=200
+017179,Sirmione,B,https://comune.sirmione.bs.it/it,leggibile,comune.sirmione.bs.it=200
+013012,Arosio,B,https://comune.arosio.co.it/,robots.txt vieta l'accesso,comune.arosio.co.it=robots
+013035,Cabiate,B,https://www.comune.cabiate.co.it/,leggibile,comune.cabiate.co.it=200
+013136,Lurago d'Erba,B,https://comune.luragoderba.co.it/it,leggibile,comune.luragoderba.co.it=200
+013206,San Fermo della Battaglia,B,https://comune.sanfermodellabattaglia.co.it/,robots.txt vieta l'accesso,comune.sanfermodellabattaglia.co.it=robots
+019067,Pandino,B,https://comune.pandino.cr.it/,leggibile,comune.pandino.cr.it=200
+019102,Spino d'Adda,B,https://comune.spinodadda.cr.it/,leggibile,comune.spinodadda.cr.it=200
+098032,Lodi Vecchio,B,https://comune.lodivecchio.lo.it/,leggibile,comune.lodivecchio.lo.it=200
+020042,Poggio Rusco,B,https://comune.poggiorusco.mn.it/,leggibile,comune.poggiorusco.mn.it=200
+020051,Rodigo,B,https://www.comune.rodigo.mn.it/,leggibile,"comune.rodigo.mn.it=URLError(ConnectionResetError(104, 'Connection reset by peer')); comune.rodigo.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway')); www.comune.rodigo.mn.it=200"
+015058,Casorezzo,B,https://comune.casorezzo.mi.it/,robots.txt vieta l'accesso,comune.casorezzo.mi.it=robots
+015096,Cuggiono,B,https://comune.cuggiono.mi.it/,leggibile,comune.cuggiono.mi.it=200
+015184,Robecco sul Naviglio,B,,non raggiungibile,"comune.robeccosulnaviglio.mi.it=URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')); comune.robeccosulnaviglio.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway')); www.comune.robeccosulnaviglio.mi.it=URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')); www.comune.robeccosulnaviglio.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway')); comune.robecco-sul-naviglio.mi.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway')); comune.robecco-sul-naviglio.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway')); www.comune.robecco-sul-naviglio.mi.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway')); www.comune.robecco-sul-naviglio.it=URLError(OSError('Tunnel connection failed: 502 Bad Gateway'))"
+015191,San Colombano al Lambro,B,https://comune.sancolombanoallambro.mi.it/it,leggibile,comune.sancolombanoallambro.mi.it=200
+015230,Vaprio d'Adda,B,https://comune.vapriodadda.mi.it/it,leggibile,comune.vapriodadda.mi.it=200
+012004,Arcisate,B,https://comune.arcisate.va.it/,leggibile,comune.arcisate.va.it=200
+012084,Ispra,B,https://comune.ispra.va.it/,leggibile,comune.ispra.va.it=200

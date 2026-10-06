@@ -1,0 +1,33 @@
+prefisso_cpv,macro_categoria,descrizione_prefisso
+45,"Edilizia, lavori e manutenzioni",Lavori di costruzione (tranne 453 impianti)
+50,"Edilizia, lavori e manutenzioni",Servizi di riparazione e manutenzione (tranne 507 impianti)
+453,Impianti ed energia,"Lavori di installazione impianti (elettrici, idraulici, termici, ascensori)"
+507,Impianti ed energia,Riparazione e manutenzione di impianti di edifici
+09,Impianti ed energia,"Prodotti petroliferi, combustibili, elettricità"
+65,Impianti ed energia,"Servizi di pubblica utilità (gas, acqua, energia)"
+31,Impianti ed energia,"Macchine e apparecchi elettrici, illuminazione"
+77,Verde e ambiente,"Servizi agricoli, forestali, orticoli, manutenzione del verde"
+907,Verde e ambiente,"Servizi ambientali (bonifiche, monitoraggio)"
+03,Verde e ambiente,"Prodotti dell'agricoltura, orticoltura, silvicoltura"
+90,"Pulizie, sanificazione e rifiuti","Servizi fognari, rifiuti, pulizia e igiene (tranne 907)"
+39830,"Pulizie, sanificazione e rifiuti",Prodotti per la pulizia
+33,Sanità e servizi alla persona,"Apparecchi medicali, farmaci, prodotti per la cura personale"
+85,Sanità e servizi alla persona,Servizi sanitari e di assistenza sociale
+80,Sanità e servizi alla persona,Servizi di istruzione e formazione
+55,Sanità e servizi alla persona,"Servizi alberghieri, di ristorazione e mense"
+92,Sanità e servizi alla persona,"Servizi ricreativi, culturali e sportivi"
+98,Sanità e servizi alla persona,"Altri servizi di comunità, sociali e personali"
+71,"Servizi tecnici, IT e professionali","Servizi architettonici, di ingegneria, di ispezione"
+72,"Servizi tecnici, IT e professionali","Servizi informatici (consulenza, software, internet)"
+48,"Servizi tecnici, IT e professionali",Pacchetti software e sistemi di informazione
+73,"Servizi tecnici, IT e professionali",Servizi di ricerca e sviluppo
+79,"Servizi tecnici, IT e professionali","Servizi per le imprese (legali, contabili, marketing, vigilanza, stampa)"
+66,"Servizi tecnici, IT e professionali","Servizi finanziari e assicurativi"
+70,"Servizi tecnici, IT e professionali",Servizi immobiliari
+75,"Servizi tecnici, IT e professionali","Servizi della pubblica amministrazione, difesa, previdenza"
+76,"Servizi tecnici, IT e professionali",Servizi connessi all'industria petrolifera e del gas
+64,"Servizi tecnici, IT e professionali","Servizi di poste e telecomunicazioni"
+60,"Trasporti e altri servizi",Servizi di trasporto (escluso trasporto rifiuti)
+63,"Trasporti e altri servizi","Servizi di supporto e ausiliari nel campo dei trasporti, agenzie di viaggio"
+51,"Trasporti e altri servizi",Servizi di installazione (escluso software)
+01-44,Forniture di beni,"Tutte le altre divisioni CPV di forniture (03-44) non elencate sopra: materiali da costruzione, alimentari, arredi, veicoli, hardware IT, abbigliamento, carta, ecc."

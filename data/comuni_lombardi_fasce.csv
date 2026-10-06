@@ -1,0 +1,475 @@
+codice_istat,comune,provincia,sigla,popolazione_2026,fascia
+012002,Albizzate,Varese,VA,5200,B: 5.000-10.000
+012003,Angera,Varese,VA,5326,B: 5.000-10.000
+012004,Arcisate,Varese,VA,9859,B: 5.000-10.000
+012012,Besnate,Varese,VA,5438,B: 5.000-10.000
+012013,Besozzo,Varese,VA,8717,B: 5.000-10.000
+012026,Busto Arsizio,Varese,VA,84595,A: oltre 10.000
+012029,Cairate,Varese,VA,7886,B: 5.000-10.000
+012032,Cardano al Campo,Varese,VA,14771,A: oltre 10.000
+012033,Carnago,Varese,VA,6610,B: 5.000-10.000
+012034,Caronno Pertusella,Varese,VA,18556,A: oltre 10.000
+012039,Casorate Sempione,Varese,VA,5631,B: 5.000-10.000
+012040,Cassano Magnago,Varese,VA,21431,A: oltre 10.000
+012042,Castellanza,Varese,VA,13890,A: oltre 10.000
+012046,Castiglione Olona,Varese,VA,7454,B: 5.000-10.000
+012047,Castronno,Varese,VA,5035,B: 5.000-10.000
+012048,Cavaria con Premezzo,Varese,VA,5769,B: 5.000-10.000
+012050,Cislago,Varese,VA,10572,A: oltre 10.000
+012067,Fagnano Olona,Varese,VA,12411,A: oltre 10.000
+012068,Ferno,Varese,VA,6715,B: 5.000-10.000
+012070,Gallarate,Varese,VA,53023,A: oltre 10.000
+012072,Gavirate,Varese,VA,9145,B: 5.000-10.000
+012075,Gerenzano,Varese,VA,11065,A: oltre 10.000
+012079,Gorla Minore,Varese,VA,8236,B: 5.000-10.000
+012083,Induno Olona,Varese,VA,10446,A: oltre 10.000
+012084,Ispra,Varese,VA,5358,B: 5.000-10.000
+012085,Jerago con Orago,Varese,VA,5177,B: 5.000-10.000
+012086,Lavena Ponte Tresa,Varese,VA,5649,B: 5.000-10.000
+012087,Laveno-Mombello,Varese,VA,8370,B: 5.000-10.000
+012089,Lonate Ceppino,Varese,VA,5177,B: 5.000-10.000
+012090,Lonate Pozzolo,Varese,VA,11338,A: oltre 10.000
+012092,Luino,Varese,VA,14003,A: oltre 10.000
+012096,Malnate,Varese,VA,16650,A: oltre 10.000
+012098,Marnate,Varese,VA,8136,B: 5.000-10.000
+012108,Olgiate Olona,Varese,VA,12953,A: oltre 10.000
+012109,Origgio,Varese,VA,8068,B: 5.000-10.000
+012118,Samarate,Varese,VA,16232,A: oltre 10.000
+012119,Saronno,Varese,VA,38812,A: oltre 10.000
+012120,Sesto Calende,Varese,VA,10998,A: oltre 10.000
+012122,Solbiate Olona,Varese,VA,5377,B: 5.000-10.000
+012123,Somma Lombardo,Varese,VA,17931,A: oltre 10.000
+012124,Sumirago,Varese,VA,5978,B: 5.000-10.000
+012127,Tradate,Varese,VA,19101,A: oltre 10.000
+012130,Uboldo,Varese,VA,11139,A: oltre 10.000
+012133,Varese,Varese,VA,79100,A: oltre 10.000
+012134,Vedano Olona,Varese,VA,7452,B: 5.000-10.000
+012136,Venegono Inferiore,Varese,VA,5922,B: 5.000-10.000
+012137,Venegono Superiore,Varese,VA,7522,B: 5.000-10.000
+012138,Vergiate,Varese,VA,8646,B: 5.000-10.000
+012139,Viggiù,Varese,VA,5150,B: 5.000-10.000
+013003,Albavilla,Como,CO,6348,B: 5.000-10.000
+013010,Appiano Gentile,Como,CO,7749,B: 5.000-10.000
+013012,Arosio,Como,CO,5227,B: 5.000-10.000
+013028,Bregnano,Como,CO,6402,B: 5.000-10.000
+013035,Cabiate,Como,CO,7404,B: 5.000-10.000
+013036,Cadorago,Como,CO,8051,B: 5.000-10.000
+013041,Cantù,Como,CO,40451,A: oltre 10.000
+013042,Canzo,Como,CO,5223,B: 5.000-10.000
+013043,Capiago Intimiano,Como,CO,5433,B: 5.000-10.000
+013048,Carugo,Como,CO,6658,B: 5.000-10.000
+013053,Casnate con Bernate,Como,CO,5033,B: 5.000-10.000
+013064,Cermenate,Como,CO,9457,B: 5.000-10.000
+013065,Cernobbio,Como,CO,6152,B: 5.000-10.000
+013075,Como,Como,CO,83035,A: oltre 10.000
+013095,Erba,Como,CO,16266,A: oltre 10.000
+013102,Fino Mornasco,Como,CO,10139,A: oltre 10.000
+013114,Guanzate,Como,CO,5810,B: 5.000-10.000
+013118,Inverigo,Como,CO,9149,B: 5.000-10.000
+013129,Lipomo,Como,CO,5869,B: 5.000-10.000
+013133,Lomazzo,Como,CO,10046,A: oltre 10.000
+013136,Lurago d'Erba,Como,CO,5587,B: 5.000-10.000
+013138,Lurate Caccivio,Como,CO,9692,B: 5.000-10.000
+013143,Mariano Comense,Como,CO,25531,A: oltre 10.000
+013154,Montano Lucino,Como,CO,5479,B: 5.000-10.000
+013159,Mozzate,Como,CO,8684,B: 5.000-10.000
+013165,Olgiate Comasco,Como,CO,12184,A: oltre 10.000
+013201,Rovellasca,Como,CO,8028,B: 5.000-10.000
+013202,Rovello Porro,Como,CO,6387,B: 5.000-10.000
+013206,San Fermo della Battaglia,Como,CO,7770,B: 5.000-10.000
+013222,Tavernerio,Como,CO,5586,B: 5.000-10.000
+013227,Turate,Como,CO,9911,B: 5.000-10.000
+013245,Villa Guardia,Como,CO,7867,B: 5.000-10.000
+013251,Colverde,Como,CO,5553,B: 5.000-10.000
+013256,Uggiate con Ronago,Como,CO,6825,B: 5.000-10.000
+014018,Chiavenna,Sondrio,SO,7294,B: 5.000-10.000
+014024,Cosio Valtellino,Sondrio,SO,5586,B: 5.000-10.000
+014037,Livigno,Sondrio,SO,6663,B: 5.000-10.000
+014045,Morbegno,Sondrio,SO,12421,A: oltre 10.000
+014061,Sondrio,Sondrio,SO,21495,A: oltre 10.000
+014066,Tirano,Sondrio,SO,8849,B: 5.000-10.000
+015002,Abbiategrasso,Milano,MI,32793,A: oltre 10.000
+015007,Arconate,Milano,MI,6871,B: 5.000-10.000
+015009,Arese,Milano,MI,19545,A: oltre 10.000
+015010,Arluno,Milano,MI,12615,A: oltre 10.000
+015011,Assago,Milano,MI,9348,B: 5.000-10.000
+015012,Bareggio,Milano,MI,17271,A: oltre 10.000
+015015,Basiglio,Milano,MI,8027,B: 5.000-10.000
+015024,Binasco,Milano,MI,7068,B: 5.000-10.000
+015027,Bollate,Milano,MI,36754,A: oltre 10.000
+015032,Bresso,Milano,MI,26672,A: oltre 10.000
+015036,Buccinasco,Milano,MI,26345,A: oltre 10.000
+015040,Bussero,Milano,MI,8386,B: 5.000-10.000
+015041,Busto Garolfo,Milano,MI,14131,A: oltre 10.000
+015044,Cambiago,Milano,MI,7331,B: 5.000-10.000
+015046,Canegrate,Milano,MI,12889,A: oltre 10.000
+015051,Carugate,Milano,MI,15763,A: oltre 10.000
+015058,Casorezzo,Milano,MI,5721,B: 5.000-10.000
+015059,Cassano d'Adda,Milano,MI,19980,A: oltre 10.000
+015060,Cassina de' Pecchi,Milano,MI,13955,A: oltre 10.000
+015062,Castano Primo,Milano,MI,10931,A: oltre 10.000
+015070,Cernusco sul Naviglio,Milano,MI,34840,A: oltre 10.000
+015071,Cerro al Lambro,Milano,MI,5211,B: 5.000-10.000
+015072,Cerro Maggiore,Milano,MI,15192,A: oltre 10.000
+015074,Cesano Boscone,Milano,MI,23285,A: oltre 10.000
+015076,Cesate,Milano,MI,14364,A: oltre 10.000
+015077,Cinisello Balsamo,Milano,MI,75154,A: oltre 10.000
+015078,Cisliano,Milano,MI,5200,B: 5.000-10.000
+015081,Cologno Monzese,Milano,MI,47179,A: oltre 10.000
+015085,Corbetta,Milano,MI,19156,A: oltre 10.000
+015086,Cormano,Milano,MI,21036,A: oltre 10.000
+015087,Cornaredo,Milano,MI,20746,A: oltre 10.000
+015093,Corsico,Milano,MI,34811,A: oltre 10.000
+015096,Cuggiono,Milano,MI,8198,B: 5.000-10.000
+015098,Cusano Milanino,Milano,MI,18994,A: oltre 10.000
+015099,Dairago,Milano,MI,6346,B: 5.000-10.000
+015103,Gaggiano,Milano,MI,9543,B: 5.000-10.000
+015105,Garbagnate Milanese,Milano,MI,27064,A: oltre 10.000
+015106,Gessate,Milano,MI,9137,B: 5.000-10.000
+015108,Gorgonzola,Milano,MI,21448,A: oltre 10.000
+015113,Inveruno,Milano,MI,8568,B: 5.000-10.000
+015114,Inzago,Milano,MI,11465,A: oltre 10.000
+015115,Lacchiarella,Milano,MI,9131,B: 5.000-10.000
+015116,Lainate,Milano,MI,26457,A: oltre 10.000
+015118,Legnano,Milano,MI,60980,A: oltre 10.000
+015125,Locate di Triulzi,Milano,MI,10360,A: oltre 10.000
+015130,Magenta,Milano,MI,25066,A: oltre 10.000
+015131,Magnago,Milano,MI,9547,B: 5.000-10.000
+015134,Marcallo con Casone,Milano,MI,6403,B: 5.000-10.000
+015139,Mediglia,Milano,MI,12373,A: oltre 10.000
+015140,Melegnano,Milano,MI,18169,A: oltre 10.000
+015142,Melzo,Milano,MI,18540,A: oltre 10.000
+015146,Milano,Milano,MI,1362863,A: oltre 10.000
+015151,Motta Visconti,Milano,MI,8253,B: 5.000-10.000
+015154,Nerviano,Milano,MI,17071,A: oltre 10.000
+015157,Novate Milanese,Milano,MI,20415,A: oltre 10.000
+015159,Opera,Milano,MI,14463,A: oltre 10.000
+015166,Paderno Dugnano,Milano,MI,47938,A: oltre 10.000
+015167,Pantigliate,Milano,MI,5886,B: 5.000-10.000
+015168,Parabiago,Milano,MI,28398,A: oltre 10.000
+015169,Paullo,Milano,MI,11136,A: oltre 10.000
+015170,Pero,Milano,MI,11866,A: oltre 10.000
+015171,Peschiera Borromeo,Milano,MI,24363,A: oltre 10.000
+015172,Pessano con Bornago,Milano,MI,9034,B: 5.000-10.000
+015173,Pieve Emanuele,Milano,MI,15846,A: oltre 10.000
+015175,Pioltello,Milano,MI,37709,A: oltre 10.000
+015176,Pogliano Milanese,Milano,MI,8483,B: 5.000-10.000
+015177,Pozzo d'Adda,Milano,MI,6871,B: 5.000-10.000
+015178,Pozzuolo Martesana,Milano,MI,8828,B: 5.000-10.000
+015179,Pregnana Milanese,Milano,MI,7331,B: 5.000-10.000
+015181,Rescaldina,Milano,MI,14406,A: oltre 10.000
+015182,Rho,Milano,MI,51000,A: oltre 10.000
+015184,Robecco sul Naviglio,Milano,MI,6794,B: 5.000-10.000
+015188,Rosate,Milano,MI,5641,B: 5.000-10.000
+015189,Rozzano,Milano,MI,41724,A: oltre 10.000
+015191,San Colombano al Lambro,Milano,MI,7591,B: 5.000-10.000
+015192,San Donato Milanese,Milano,MI,32210,A: oltre 10.000
+015194,San Giorgio su Legnano,Milano,MI,6868,B: 5.000-10.000
+015195,San Giuliano Milanese,Milano,MI,40227,A: oltre 10.000
+015201,San Vittore Olona,Milano,MI,8450,B: 5.000-10.000
+015204,Sedriano,Milano,MI,13088,A: oltre 10.000
+015205,Segrate,Milano,MI,37194,A: oltre 10.000
+015206,Senago,Milano,MI,21754,A: oltre 10.000
+015209,Sesto San Giovanni,Milano,MI,78850,A: oltre 10.000
+015210,Settala,Milano,MI,7447,B: 5.000-10.000
+015211,Settimo Milanese,Milano,MI,20002,A: oltre 10.000
+015213,Solaro,Milano,MI,14260,A: oltre 10.000
+015219,Trezzano Rosa,Milano,MI,5444,B: 5.000-10.000
+015220,Trezzano sul Naviglio,Milano,MI,21875,A: oltre 10.000
+015221,Trezzo sull'Adda,Milano,MI,12442,A: oltre 10.000
+015224,Truccazzano,Milano,MI,5810,B: 5.000-10.000
+015226,Turbigo,Milano,MI,7276,B: 5.000-10.000
+015229,Vanzago,Milano,MI,9372,B: 5.000-10.000
+015230,Vaprio d'Adda,Milano,MI,9723,B: 5.000-10.000
+015237,Vignate,Milano,MI,9369,B: 5.000-10.000
+015242,Vimodrone,Milano,MI,16933,A: oltre 10.000
+015243,Vittuone,Milano,MI,9312,B: 5.000-10.000
+015247,Zibido San Giacomo,Milano,MI,6643,B: 5.000-10.000
+015248,Villa Cortese,Milano,MI,6333,B: 5.000-10.000
+015249,Vanzaghello,Milano,MI,5394,B: 5.000-10.000
+015250,Baranzate,Milano,MI,12129,A: oltre 10.000
+015251,Vermezzo con Zelo,Milano,MI,5987,B: 5.000-10.000
+016003,Albano Sant'Alessandro,Bergamo,BG,8342,B: 5.000-10.000
+016004,Albino,Bergamo,BG,17588,A: oltre 10.000
+016005,Almè,Bergamo,BG,5483,B: 5.000-10.000
+016006,Almenno San Bartolomeo,Bergamo,BG,6630,B: 5.000-10.000
+016007,Almenno San Salvatore,Bergamo,BG,5502,B: 5.000-10.000
+016008,Alzano Lombardo,Bergamo,BG,13379,A: oltre 10.000
+016011,Arcene,Bergamo,BG,5112,B: 5.000-10.000
+016016,Azzano San Paolo,Bergamo,BG,7725,B: 5.000-10.000
+016024,Bergamo,Bergamo,BG,120629,A: oltre 10.000
+016028,Bolgare,Bergamo,BG,6731,B: 5.000-10.000
+016029,Boltiere,Bergamo,BG,6185,B: 5.000-10.000
+016030,Bonate Sopra,Bergamo,BG,10652,A: oltre 10.000
+016031,Bonate Sotto,Bergamo,BG,6645,B: 5.000-10.000
+016034,Bottanuco,Bergamo,BG,5085,B: 5.000-10.000
+016037,Brembate,Bergamo,BG,8745,B: 5.000-10.000
+016038,Brembate di Sopra,Bergamo,BG,8068,B: 5.000-10.000
+016040,Brignano Gera d'Adda,Bergamo,BG,6267,B: 5.000-10.000
+016042,Brusaporto,Bergamo,BG,5704,B: 5.000-10.000
+016043,Calcinate,Bergamo,BG,6254,B: 5.000-10.000
+016044,Calcio,Bergamo,BG,5551,B: 5.000-10.000
+016046,Calusco d'Adda,Bergamo,BG,8432,B: 5.000-10.000
+016051,Capriate San Gervasio,Bergamo,BG,8316,B: 5.000-10.000
+016053,Caravaggio,Bergamo,BG,16513,A: oltre 10.000
+016062,Castelli Calepio,Bergamo,BG,10484,A: oltre 10.000
+016073,Chiuduno,Bergamo,BG,6260,B: 5.000-10.000
+016074,Cisano Bergamasco,Bergamo,BG,6232,B: 5.000-10.000
+016075,Ciserano,Bergamo,BG,5843,B: 5.000-10.000
+016076,Cividate al Piano,Bergamo,BG,5099,B: 5.000-10.000
+016077,Clusone,Bergamo,BG,8596,B: 5.000-10.000
+016079,Cologno al Serio,Bergamo,BG,11287,A: oltre 10.000
+016086,Costa Volpino,Bergamo,BG,8792,B: 5.000-10.000
+016089,Curno,Bergamo,BG,7574,B: 5.000-10.000
+016091,Dalmine,Bergamo,BG,23818,A: oltre 10.000
+016096,Fara Gera d'Adda,Bergamo,BG,8080,B: 5.000-10.000
+016108,Gandino,Bergamo,BG,5182,B: 5.000-10.000
+016113,Ghisalba,Bergamo,BG,6256,B: 5.000-10.000
+016114,Gorlago,Bergamo,BG,5182,B: 5.000-10.000
+016115,Gorle,Bergamo,BG,6572,B: 5.000-10.000
+016117,Grassobbio,Bergamo,BG,6547,B: 5.000-10.000
+016120,Grumello del Monte,Bergamo,BG,7675,B: 5.000-10.000
+016132,Mapello,Bergamo,BG,7039,B: 5.000-10.000
+016133,Martinengo,Bergamo,BG,11172,A: oltre 10.000
+016143,Mozzo,Bergamo,BG,7233,B: 5.000-10.000
+016144,Nembro,Bergamo,BG,11284,A: oltre 10.000
+016152,Osio Sopra,Bergamo,BG,5195,B: 5.000-10.000
+016153,Osio Sotto,Bergamo,BG,12892,A: oltre 10.000
+016157,Palosco,Bergamo,BG,5730,B: 5.000-10.000
+016160,Pedrengo,Bergamo,BG,5911,B: 5.000-10.000
+016169,Ponteranica,Bergamo,BG,6731,B: 5.000-10.000
+016170,Ponte San Pietro,Bergamo,BG,12007,A: oltre 10.000
+016172,Pontirolo Nuovo,Bergamo,BG,5046,B: 5.000-10.000
+016178,Ranica,Bergamo,BG,5828,B: 5.000-10.000
+016183,Romano di Lombardia,Bergamo,BG,21049,A: oltre 10.000
+016189,San Paolo d'Argon,Bergamo,BG,5938,B: 5.000-10.000
+016193,Sarnico,Bergamo,BG,6858,B: 5.000-10.000
+016194,Scanzorosciate,Bergamo,BG,10168,A: oltre 10.000
+016198,Seriate,Bergamo,BG,25857,A: oltre 10.000
+016202,Sorisole,Bergamo,BG,8757,B: 5.000-10.000
+016204,Sovere,Bergamo,BG,5310,B: 5.000-10.000
+016206,Spirano,Bergamo,BG,5737,B: 5.000-10.000
+016207,Stezzano,Bergamo,BG,13904,A: oltre 10.000
+016212,Telgate,Bergamo,BG,5025,B: 5.000-10.000
+016213,Terno d'Isola,Bergamo,BG,7976,B: 5.000-10.000
+016214,Torre Boldone,Bergamo,BG,8721,B: 5.000-10.000
+016218,Trescore Balneario,Bergamo,BG,9922,B: 5.000-10.000
+016219,Treviglio,Bergamo,BG,31604,A: oltre 10.000
+016220,Treviolo,Bergamo,BG,10923,A: oltre 10.000
+016222,Urgnano,Bergamo,BG,10140,A: oltre 10.000
+016232,Verdellino,Bergamo,BG,7843,B: 5.000-10.000
+016233,Verdello,Bergamo,BG,8212,B: 5.000-10.000
+016239,Villa d'Almè,Bergamo,BG,6428,B: 5.000-10.000
+016240,Villa di Serio,Bergamo,BG,6490,B: 5.000-10.000
+016242,Villongo,Bergamo,BG,8169,B: 5.000-10.000
+016245,Zanica,Bergamo,BG,8839,B: 5.000-10.000
+016246,Zogno,Bergamo,BG,8590,B: 5.000-10.000
+017002,Adro,Brescia,BS,7196,B: 5.000-10.000
+017009,Bagnolo Mella,Brescia,BS,12536,A: oltre 10.000
+017014,Bedizzole,Brescia,BS,12266,A: oltre 10.000
+017020,Borgo San Giacomo,Brescia,BS,5590,B: 5.000-10.000
+017021,Borgosatollo,Brescia,BS,9099,B: 5.000-10.000
+017023,Botticino,Brescia,BS,10849,A: oltre 10.000
+017025,Bovezzo,Brescia,BS,7386,B: 5.000-10.000
+017029,Brescia,Brescia,BS,201342,A: oltre 10.000
+017032,Calcinato,Brescia,BS,13147,A: oltre 10.000
+017034,Calvisano,Brescia,BS,8461,B: 5.000-10.000
+017038,Capriolo,Brescia,BS,9405,B: 5.000-10.000
+017039,Carpenedolo,Brescia,BS,13050,A: oltre 10.000
+017040,Castegnato,Brescia,BS,8457,B: 5.000-10.000
+017041,Castelcovati,Brescia,BS,7087,B: 5.000-10.000
+017042,Castel Mella,Brescia,BS,10961,A: oltre 10.000
+017043,Castenedolo,Brescia,BS,11643,A: oltre 10.000
+017045,Castrezzato,Brescia,BS,7984,B: 5.000-10.000
+017046,Cazzago San Martino,Brescia,BS,10784,A: oltre 10.000
+017052,Chiari,Brescia,BS,19717,A: oltre 10.000
+017056,Coccaglio,Brescia,BS,8937,B: 5.000-10.000
+017059,Cologne,Brescia,BS,7608,B: 5.000-10.000
+017061,Concesio,Brescia,BS,15735,A: oltre 10.000
+017062,Corte Franca,Brescia,BS,7150,B: 5.000-10.000
+017065,Darfo Boario Terme,Brescia,BS,15974,A: oltre 10.000
+017066,Dello,Brescia,BS,5686,B: 5.000-10.000
+017067,Desenzano del Garda,Brescia,BS,29353,A: oltre 10.000
+017069,Erbusco,Brescia,BS,8852,B: 5.000-10.000
+017070,Esine,Brescia,BS,5055,B: 5.000-10.000
+017072,Flero,Brescia,BS,8812,B: 5.000-10.000
+017075,Gardone Val Trompia,Brescia,BS,11599,A: oltre 10.000
+017077,Gavardo,Brescia,BS,12438,A: oltre 10.000
+017078,Ghedi,Brescia,BS,18546,A: oltre 10.000
+017080,Gottolengo,Brescia,BS,5051,B: 5.000-10.000
+017081,Gussago,Brescia,BS,16663,A: oltre 10.000
+017085,Iseo,Brescia,BS,8969,B: 5.000-10.000
+017088,Leno,Brescia,BS,14474,A: oltre 10.000
+017092,Lonato del Garda,Brescia,BS,17168,A: oltre 10.000
+017096,Lumezzane,Brescia,BS,21742,A: oltre 10.000
+017102,Manerba del Garda,Brescia,BS,5415,B: 5.000-10.000
+017103,Manerbio,Brescia,BS,13630,A: oltre 10.000
+017107,Mazzano,Brescia,BS,12715,A: oltre 10.000
+017113,Montichiari,Brescia,BS,26506,A: oltre 10.000
+017114,Montirone,Brescia,BS,5161,B: 5.000-10.000
+017117,Nave,Brescia,BS,10627,A: oltre 10.000
+017125,Orzinuovi,Brescia,BS,12496,A: oltre 10.000
+017127,Ospitaletto,Brescia,BS,14969,A: oltre 10.000
+017133,Palazzolo sull'Oglio,Brescia,BS,20603,A: oltre 10.000
+017134,Paratico,Brescia,BS,5023,B: 5.000-10.000
+017136,Passirano,Brescia,BS,6842,B: 5.000-10.000
+017143,Pisogne,Brescia,BS,7901,B: 5.000-10.000
+017147,Poncarale,Brescia,BS,5192,B: 5.000-10.000
+017149,Pontevico,Brescia,BS,7131,B: 5.000-10.000
+017150,Pontoglio,Brescia,BS,7004,B: 5.000-10.000
+017155,Prevalle,Brescia,BS,6902,B: 5.000-10.000
+017156,Provaglio d'Iseo,Brescia,BS,7068,B: 5.000-10.000
+017159,Quinzano d'Oglio,Brescia,BS,6392,B: 5.000-10.000
+017161,Rezzato,Brescia,BS,13592,A: oltre 10.000
+017163,Rodengo Saiano,Brescia,BS,9868,B: 5.000-10.000
+017165,Roncadelle,Brescia,BS,9315,B: 5.000-10.000
+017166,Rovato,Brescia,BS,19746,A: oltre 10.000
+017167,Rudiano,Brescia,BS,5910,B: 5.000-10.000
+017170,Salò,Brescia,BS,10292,A: oltre 10.000
+017174,Sarezzo,Brescia,BS,13309,A: oltre 10.000
+017179,Sirmione,Brescia,BS,8454,B: 5.000-10.000
+017186,Torbole Casaglia,Brescia,BS,6488,B: 5.000-10.000
+017187,Toscolano-Maderno,Brescia,BS,7655,B: 5.000-10.000
+017188,Travagliato,Brescia,BS,14007,A: oltre 10.000
+017190,Trenzano,Brescia,BS,5556,B: 5.000-10.000
+017195,Verolanuova,Brescia,BS,8168,B: 5.000-10.000
+017199,Villa Carcina,Brescia,BS,10721,A: oltre 10.000
+017201,Villanuova sul Clisi,Brescia,BS,5929,B: 5.000-10.000
+017204,Vobarno,Brescia,BS,8485,B: 5.000-10.000
+018013,Belgioioso,Pavia,PV,6439,B: 5.000-10.000
+018024,Broni,Pavia,PV,10164,A: oltre 10.000
+018034,Casorate Primo,Pavia,PV,9190,B: 5.000-10.000
+018035,Cassolnovo,Pavia,PV,6747,B: 5.000-10.000
+018037,Casteggio,Pavia,PV,6363,B: 5.000-10.000
+018041,Cava Manara,Pavia,PV,6684,B: 5.000-10.000
+018046,Certosa di Pavia,Pavia,PV,5623,B: 5.000-10.000
+018050,Cilavegna,Pavia,PV,5438,B: 5.000-10.000
+018060,Cura Carpignano,Pavia,PV,5080,B: 5.000-10.000
+018068,Gambolò,Pavia,PV,9813,B: 5.000-10.000
+018069,Garlasco,Pavia,PV,9665,B: 5.000-10.000
+018072,Giussago,Pavia,PV,5385,B: 5.000-10.000
+018078,Landriano,Pavia,PV,6551,B: 5.000-10.000
+018088,Mede,Pavia,PV,6102,B: 5.000-10.000
+018102,Mortara,Pavia,PV,15934,A: oltre 10.000
+018110,Pavia,Pavia,PV,71811,A: oltre 10.000
+018122,Rivanazzano Terme,Pavia,PV,5150,B: 5.000-10.000
+018123,Robbio,Pavia,PV,6016,B: 5.000-10.000
+018137,San Martino Siccomario,Pavia,PV,6666,B: 5.000-10.000
+018138,Sannazzaro de' Burgondi,Pavia,PV,5230,B: 5.000-10.000
+018150,Siziano,Pavia,PV,6921,B: 5.000-10.000
+018153,Stradella,Pavia,PV,11729,A: oltre 10.000
+018176,Vidigulfo,Pavia,PV,6821,B: 5.000-10.000
+018177,Vigevano,Pavia,PV,63480,A: oltre 10.000
+018182,Voghera,Pavia,PV,40220,A: oltre 10.000
+019005,Bagnolo Cremasco,Cremona,CR,5115,B: 5.000-10.000
+019021,Casalmaggiore,Cremona,CR,15114,A: oltre 10.000
+019025,Castelleone,Cremona,CR,9340,B: 5.000-10.000
+019026,Castelverde,Cremona,CR,5699,B: 5.000-10.000
+019035,Crema,Cremona,CR,34147,A: oltre 10.000
+019036,Cremona,Cremona,CR,71093,A: oltre 10.000
+019062,Offanengo,Cremona,CR,5945,B: 5.000-10.000
+019067,Pandino,Cremona,CR,8988,B: 5.000-10.000
+019076,Pizzighettone,Cremona,CR,6242,B: 5.000-10.000
+019084,Rivolta d'Adda,Cremona,CR,8358,B: 5.000-10.000
+019097,Soncino,Cremona,CR,7554,B: 5.000-10.000
+019098,Soresina,Cremona,CR,9306,B: 5.000-10.000
+019102,Spino d'Adda,Cremona,CR,7013,B: 5.000-10.000
+020002,Asola,Mantova,MN,9870,B: 5.000-10.000
+020003,Bagnolo San Vito,Mantova,MN,5855,B: 5.000-10.000
+020015,Castel Goffredo,Mantova,MN,12732,A: oltre 10.000
+020016,Castellucchio,Mantova,MN,5161,B: 5.000-10.000
+020017,Castiglione delle Stiviere,Mantova,MN,23950,A: oltre 10.000
+020021,Curtatone,Mantova,MN,14691,A: oltre 10.000
+020026,Goito,Mantova,MN,10135,A: oltre 10.000
+020027,Gonzaga,Mantova,MN,8574,B: 5.000-10.000
+020028,Guidizzolo,Mantova,MN,6045,B: 5.000-10.000
+020030,Mantova,Mantova,MN,50215,A: oltre 10.000
+020031,Marcaria,Mantova,MN,6338,B: 5.000-10.000
+020033,Marmirolo,Mantova,MN,7653,B: 5.000-10.000
+020035,Moglia,Mantova,MN,5394,B: 5.000-10.000
+020038,Ostiglia,Mantova,MN,6849,B: 5.000-10.000
+020039,Pegognaga,Mantova,MN,6972,B: 5.000-10.000
+020042,Poggio Rusco,Mantova,MN,6255,B: 5.000-10.000
+020045,Porto Mantovano,Mantova,MN,16715,A: oltre 10.000
+020047,Quistello,Mantova,MN,5281,B: 5.000-10.000
+020051,Rodigo,Mantova,MN,5174,B: 5.000-10.000
+020052,Roncoferraro,Mantova,MN,6935,B: 5.000-10.000
+020053,Roverbella,Mantova,MN,8714,B: 5.000-10.000
+020055,San Benedetto Po,Mantova,MN,6792,B: 5.000-10.000
+020057,San Giorgio Bigarello,Mantova,MN,11958,A: oltre 10.000
+020061,Sermide e Felonica,Mantova,MN,7040,B: 5.000-10.000
+020065,Suzzara,Mantova,MN,21318,A: oltre 10.000
+020066,Viadana,Mantova,MN,19787,A: oltre 10.000
+020070,Volta Mantovana,Mantova,MN,7248,B: 5.000-10.000
+020071,Borgo Virgilio,Mantova,MN,15052,A: oltre 10.000
+020072,Borgo Mantovano,Mantova,MN,5379,B: 5.000-10.000
+097006,Barzanò,Lecco,LC,5047,B: 5.000-10.000
+097012,Calco,Lecco,LC,5476,B: 5.000-10.000
+097013,Calolziocorte,Lecco,LC,13593,A: oltre 10.000
+097016,Casatenovo,Lecco,LC,13234,A: oltre 10.000
+097023,Colico,Lecco,LC,8188,B: 5.000-10.000
+097036,Galbiate,Lecco,LC,8426,B: 5.000-10.000
+097042,Lecco,Lecco,LC,47326,A: oltre 10.000
+097044,Lomagna,Lecco,LC,5118,B: 5.000-10.000
+097046,Mandello del Lario,Lecco,LC,9856,B: 5.000-10.000
+097048,Merate,Lecco,LC,15031,A: oltre 10.000
+097049,Missaglia,Lecco,LC,9010,B: 5.000-10.000
+097057,Oggiono,Lecco,LC,9218,B: 5.000-10.000
+097058,Olgiate Molgora,Lecco,LC,6414,B: 5.000-10.000
+097059,Olginate,Lecco,LC,6925,B: 5.000-10.000
+097071,Robbiate,Lecco,LC,6441,B: 5.000-10.000
+097083,Valmadrera,Lecco,LC,11233,A: oltre 10.000
+097091,Verderio,Lecco,LC,5516,B: 5.000-10.000
+098010,Casalpusterlengo,Lodi,LO,16069,A: oltre 10.000
+098019,Codogno,Lodi,LO,15652,A: oltre 10.000
+098031,Lodi,Lodi,LO,45643,A: oltre 10.000
+098032,Lodi Vecchio,Lodi,LO,7717,B: 5.000-10.000
+098041,Mulazzano,Lodi,LO,5829,B: 5.000-10.000
+098050,Sant'Angelo Lodigiano,Lodi,LO,13577,A: oltre 10.000
+098056,Tavazzano con Villavesco,Lodi,LO,6098,B: 5.000-10.000
+098061,Zelo Buon Persico,Lodi,LO,7434,B: 5.000-10.000
+108001,Agrate Brianza,Monza e della Brianza,MB,15891,A: oltre 10.000
+108003,Albiate,Monza e della Brianza,MB,6720,B: 5.000-10.000
+108004,Arcore,Monza e della Brianza,MB,17938,A: oltre 10.000
+108005,Barlassina,Monza e della Brianza,MB,6985,B: 5.000-10.000
+108006,Bellusco,Monza e della Brianza,MB,7487,B: 5.000-10.000
+108007,Bernareggio,Monza e della Brianza,MB,11706,A: oltre 10.000
+108008,Besana in Brianza,Monza e della Brianza,MB,15503,A: oltre 10.000
+108009,Biassono,Monza e della Brianza,MB,12430,A: oltre 10.000
+108010,Bovisio-Masciago,Monza e della Brianza,MB,16953,A: oltre 10.000
+108011,Briosco,Monza e della Brianza,MB,6131,B: 5.000-10.000
+108012,Brugherio,Monza e della Brianza,MB,35471,A: oltre 10.000
+108015,Carate Brianza,Monza e della Brianza,MB,18054,A: oltre 10.000
+108016,Carnate,Monza e della Brianza,MB,7992,B: 5.000-10.000
+108017,Cavenago di Brianza,Monza e della Brianza,MB,7590,B: 5.000-10.000
+108018,Ceriano Laghetto,Monza e della Brianza,MB,6675,B: 5.000-10.000
+108019,Cesano Maderno,Monza e della Brianza,MB,40177,A: oltre 10.000
+108020,Cogliate,Monza e della Brianza,MB,8469,B: 5.000-10.000
+108021,Concorezzo,Monza e della Brianza,MB,16153,A: oltre 10.000
+108023,Desio,Monza e della Brianza,MB,41872,A: oltre 10.000
+108024,Giussano,Monza e della Brianza,MB,26509,A: oltre 10.000
+108025,Lazzate,Monza e della Brianza,MB,7722,B: 5.000-10.000
+108026,Lesmo,Monza e della Brianza,MB,8376,B: 5.000-10.000
+108027,Limbiate,Monza e della Brianza,MB,35865,A: oltre 10.000
+108028,Lissone,Monza e della Brianza,MB,46792,A: oltre 10.000
+108029,Macherio,Monza e della Brianza,MB,7582,B: 5.000-10.000
+108030,Meda,Monza e della Brianza,MB,23735,A: oltre 10.000
+108032,Misinto,Monza e della Brianza,MB,5749,B: 5.000-10.000
+108033,Monza,Monza e della Brianza,MB,123672,A: oltre 10.000
+108034,Muggiò,Monza e della Brianza,MB,23585,A: oltre 10.000
+108035,Nova Milanese,Monza e della Brianza,MB,23068,A: oltre 10.000
+108036,Ornago,Monza e della Brianza,MB,5487,B: 5.000-10.000
+108039,Seregno,Monza e della Brianza,MB,45240,A: oltre 10.000
+108040,Seveso,Monza e della Brianza,MB,23982,A: oltre 10.000
+108041,Sovico,Monza e della Brianza,MB,8313,B: 5.000-10.000
+108043,Triuggio,Monza e della Brianza,MB,8776,B: 5.000-10.000
+108044,Usmate Velate,Monza e della Brianza,MB,10740,A: oltre 10.000
+108045,Varedo,Monza e della Brianza,MB,14039,A: oltre 10.000
+108046,Vedano al Lambro,Monza e della Brianza,MB,7363,B: 5.000-10.000
+108048,Verano Brianza,Monza e della Brianza,MB,9126,B: 5.000-10.000
+108049,Villasanta,Monza e della Brianza,MB,14305,A: oltre 10.000
+108050,Vimercate,Monza e della Brianza,MB,26341,A: oltre 10.000
+108051,Busnago,Monza e della Brianza,MB,6882,B: 5.000-10.000
+108052,Caponago,Monza e della Brianza,MB,5050,B: 5.000-10.000
+108053,Cornate d'Adda,Monza e della Brianza,MB,11134,A: oltre 10.000
+108054,Lentate sul Seveso,Monza e della Brianza,MB,16049,A: oltre 10.000
