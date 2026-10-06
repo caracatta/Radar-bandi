@@ -7,6 +7,9 @@ servizio di newsletter sui bandi.
 - Risultati: [`output/report.md`](output/report.md). Dati in
   `output/tabella_provincia.csv`, `output/tabella_provincia_macro.csv` e
   l'elenco delle gare in `output/bandi_lombardia_aperti.csv`.
+- Approfondimenti (aperte vs invito, importi, scadenze, ritardo dei dati,
+  servizi tecnici, sanità, manifestazioni di interesse, affidamenti diretti):
+  [`output/approfondimenti.md`](output/approfondimenti.md)
 - Fonti, campi e limiti: [`docs/nota_fonti.md`](docs/nota_fonti.md)
 - Mappatura CPV → macro-categoria: [`config/cpv_macro.csv`](config/cpv_macro.csv)
 - Tabella comune → provincia (ISTAT): `data/comuni_province.csv`
@@ -16,6 +19,7 @@ servizio di newsletter sui bandi.
 ```sh
 python3 scripts/scarica_fonti.py --oggi 2026-10-06 --giorni 60   # ~700 MB in data/raw/ (non versionata)
 python3 scripts/analisi_lombardia.py --oggi 2026-10-06 --giorni 60
+python3 scripts/approfondimenti.py --oggi 2026-10-06 --giorni 60
 ```
 
 Solo libreria standard di Python 3. Lo script di download riusa i file ANAC
